@@ -1,0 +1,14 @@
+@media screen and (max-width: 540px) {
+    #inner_listed_property_wrapper {
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+
+    #inner_listed_property_wrapper #inner_listed_property_scroll {
+        min-width: 1000px;
+    }
+
+    #listed_header_wrapper {
+        margin-left: 34%;
+    }
+}
