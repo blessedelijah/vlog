@@ -1,12 +1,12 @@
 <footer>
         <article id="footer-inner">
-            <section id="footsec1">
+            <!-- <section id="footsec1">
                 <h2>Vloggy</h2>
                 <p>
                     A super modern theme following the latest trends
                     with premium Membership and fully compatible with Ghost.
                 </p>
-            </section>
+            </section> -->
             <section id="footsec2">
                 <h3>Latest Articles</h3>
                 <article id="latest-arti-wrapper">
